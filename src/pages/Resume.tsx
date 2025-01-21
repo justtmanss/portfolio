@@ -15,7 +15,7 @@ const Resume = () => {
             Resume
           </h1>
           <a
-            href="https://drive.google.com/file/d/1NULHtPore1ZxXFl40cgqm9NAtwJAatSW/view?usp=sharing"
+            href="https://drive.google.com/file/d/1dBpgSdS2Ri3YLxpj9oCJExnZFT__zahj/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-2 bg-rosegold text-ivory px-6 py-3 rounded-full hover:bg-rosegold/90 transition-colors"
